@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conatiner{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.bg_img{
+    width: 300px;
+    height: 300px;
+}
+.conatiner_inner{
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.oyna{
+    position: absolute;
+    margin-top: 48px;
+    width: 218px;
+    border-radius: 7px;
+    padding: 15px;
+    font-size: 25px;
+    font-weight: 800;
+    outline: none;
+    background-color: rgb(30, 179, 80);
+    margin-left: -257px;
+    color: black;
+}
+.click{
+    position: absolute;
+    margin-left: -220px;
+    width: 137px;
+    padding: 53px;
+    margin-top: 170px;
+    border-radius: 60px;
+}
+.clear{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -99px;
+    border-radius: 50px;
+    padding: 20px;
+}
